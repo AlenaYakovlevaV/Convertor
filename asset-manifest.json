@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Convertor/static/css/main.8feedfc4.css",
+    "main.js": "/Convertor/static/js/main.50d1e8fe.js",
+    "index.html": "/Convertor/index.html",
+    "main.8feedfc4.css.map": "/Convertor/static/css/main.8feedfc4.css.map",
+    "main.50d1e8fe.js.map": "/Convertor/static/js/main.50d1e8fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8feedfc4.css",
+    "static/js/main.50d1e8fe.js"
+  ]
+}
